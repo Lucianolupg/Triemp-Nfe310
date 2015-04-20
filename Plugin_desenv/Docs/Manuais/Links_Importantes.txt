@@ -1,0 +1,21 @@
+1 - Relação de Serviços Web - SEFAZ
+
+http://hom.nfe.fazenda.gov.br/portal/webServices.aspx?tipoConteudo=Wak0FwB7dKs=#RS
+
+2 - NF-e: EnviNFe utilizando JAXB (XML NF-e Completo)
+
+http://www.javac.com.br/jc/posts/list/92-nfe-envinfe-utilizando-jaxb-xml-nfe-completo.page
+
+3 - JAXB + NFe
+
+http://www.oracle.com/technetwork/articles/javase/index-140168.html
+
+https://jaxb.java.net/
+
+4 - Javac NFCe 3.00/3.10 
+
+http://www.javahome.com.br/jc/posts/list/36/1731.page
+
+5 - Desenvolvedores.migrate
+
+http://desenvolvedores.migrate.com.br/downloads/
