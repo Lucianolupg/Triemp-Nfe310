@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<jardesc>
+    <jar path="triemp-nfe200/lib/triemp-nfe200.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/triemp-nfe200/jardesc/triemp-nfe200.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=freedom-fw1/src&lt;org.freedom.library.functions{Funcoes.java"/>
+        <javaElement handleIdentifier="=triemp-nfe200/src"/>
+        <javaElement handleIdentifier="=freedom-infra/src&lt;org.freedom.infra.functions{SystemFunctions.java"/>
+        <javaElement handleIdentifier="=freedom-infra/src&lt;org.freedom.infra.model.jdbc"/>
+        <javaElement handleIdentifier="=freedom-nfe/src"/>
+    </selectedElements>
+</jardesc>
