@@ -1,1 +1,3 @@
-Pasta BD
+1-Create folder in Git 
+
+git add . -f (in Git Shell)
